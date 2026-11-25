@@ -1,0 +1,6 @@
+{
+  "name": "Munafa — Made in Pakistan Marketplace",
+  "description": "Connecting Pakistani farmers, miners, factories and wholesalers directly to shops and households with distributed edge device storage, unified inbox, and automated subscription operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
